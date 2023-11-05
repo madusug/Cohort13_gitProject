@@ -1,2 +1,2 @@
 This is a git file and our first addition
-
+Executive order: We have to check for Merge vs Merge Squash vs Rebase
