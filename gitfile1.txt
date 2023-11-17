@@ -1,4 +1,4 @@
 This is a git file and our first addition
 Executive order: We have to check for Merge vs Merge Squash vs Rebase
 We are editting this file for Poll SCM
-Testing the Github hook one from Jenkins
+Testing the github hook one from Jenkins
